@@ -13,11 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Блог про жизнь и жизнь в IT
+title: Блог про жизнь в IT и не только
+tagline: Webdev.Music.Mood
 # email: alexander.shgv@gmail.com
-description: > # Время вести блог наступило сейчас
+# description: > # Время вести блог наступило сейчас
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+author:
+  name: 'Alexander Shagov'
+  url: 'http://shag.of.by'
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-cayman
