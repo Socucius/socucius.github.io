@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Блог про жизнь в IT и не только
+title: Блог про IT и не только
 tagline: Webdev.Music.Mood
 # email: alexander.shgv@gmail.com
 # description: > # Время вести блог наступило сейчас
