@@ -25,6 +25,7 @@ author:
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-cayman
+highlighter: pygments
 gems:
   - jekyll-feed
 exclude:
