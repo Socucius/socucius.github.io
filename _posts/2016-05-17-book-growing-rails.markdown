@@ -4,7 +4,7 @@ title: 'Книги: Growing Rails applications in practice'
 date: '2016-05-17'
 ---
 
-![Image of Yaktocat](https://s3.amazonaws.com/titlepages.leanpub.com/growing-rails/hero?1467710010)
+![Image](https://s3.amazonaws.com/titlepages.leanpub.com/growing-rails/hero?1467710010)
 
 Книга не нова, но добрался я до нее только сейчас.
 
